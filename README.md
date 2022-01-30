@@ -1,4 +1,15 @@
 # bot-autoclick-monsterquest
+![1_add_path](https://user-images.githubusercontent.com/58611244/151722169-ff4eee79-4d90-465b-84a9-14a727512667.png)
+![2_way](https://user-images.githubusercontent.com/58611244/151722173-7c05af95-fd58-4722-92ef-5e52d8f19bdd.png)
+![3_way_prompt](https://user-images.githubusercontent.com/58611244/151722174-ad70c688-6007-49c6-8db5-202095102454.png)
+![4_requirements](https://user-images.githubusercontent.com/58611244/151722175-470d51fb-a4db-4215-849f-aaf6575f78a8.png)
+![5_run_py](https://user-images.githubusercontent.com/58611244/151722176-c6cc07ef-4c24-4052-ba53-93093de033ce.png)
+
+
+
+
+
+
 
 # Instalação:
 ### Baixe e instale o Python pelo [site](https://www.python.org/downloads/) ou pela [windows store](https://www.microsoft.com/p/python-37/9nj46sx7x90p?activetab=pivot:overviewtab).
