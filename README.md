@@ -5,7 +5,7 @@
 
 Se você baixar pelo site é importante marcar a opção para adicionar o
 python ao PATH:
-![install_1](https://user-images.githubusercontent.com/58611244/151721189-8c986cf6-34b5-4f6c-a3c7-bd9bc8493b1b.png) 
+![1_add_path](https://user-images.githubusercontent.com/58611244/151722169-ff4eee79-4d90-465b-84a9-14a727512667.png)
 
 ### Realize o download do codigo no formato zip, e extraia o arquivo.
 
