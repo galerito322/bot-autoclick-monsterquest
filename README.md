@@ -1,9 +1,9 @@
 # bot-autoclick-monsterquest
 
-É preciso instalar o python 
+Baixe e instale o Python pelo [site](https://www.python.org/downloads/) ou pela [windows store](https://www.microsoft.com/pt-br/p/python-37/9nj46sx7x90p?rtc=1&activetab=pivot:overviewtab).
 
 
-[I'm an inline-style link](https://www.google.com)
+
 
 
 
