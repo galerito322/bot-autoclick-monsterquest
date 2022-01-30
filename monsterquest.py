@@ -34,7 +34,7 @@ def locateImg(img1, img2):
 #define que o click sera sempre + 50 pixels no eixo x da img encontrada (isso faz com q o click acontece sempre na primeira carta)
 def start(name): 
     py.scroll(-1500)
-    print("\nSearching for fight buttons: ")
+    print("\nSearching for fight buttons:\nPress ctrl + c to interrupt")
     while True:
         time.sleep(1)
         imgLocation = py.locateOnScreen(name, confidence= 0.85)
