@@ -1,5 +1,15 @@
 # bot-autoclick-monsterquest
 
+# Bot para fazer o modo ADVENTURE de forma semi-automatizada (resumo)
+
+- Ideal pra quem tem vários monstros e não quer dar 20x12x3 clicks (caso pra quem tem 20 monstros) quando eles estão com a stamina full.
+- Um monstro deve ser selecionado manualmente no início e a cada termino de loop (é configurado dessa forma para que ele n ataque com monstros indesejáveis).
+- Caso algum passo não esteja funcionando corretamente basta realizar a substituição da imagem na pasta do bot por outra equivalente (matenha o mesmo nome da img substituida). Você pode fazer isso usando (Windows+shift+s) ou qualquer outra coisa que possibilite o recorte da imagem como paint ou lightshot.
+- Sim, copiei parte do tutorial de instalação do python do bot do bombercrypto
+
+# Video demonstrativo de uso
+https://www.youtube.com/watch?v=nS-dzYHtHaU
+
 # Instalação:
 ### Baixe e instale o Python pelo [site](https://www.python.org/downloads/) ou pela [windows store](https://www.microsoft.com/p/python-37/9nj46sx7x90p?activetab=pivot:overviewtab).
 
@@ -48,11 +58,11 @@ Para iniciar use o comando
 python3 monsterquest.py
 ```
 
-Ou simplismente vá na pasta manualmente e abra o arquivo monsterquest.py 
+Ou simplismente vá até a pasta e abra o arquivo monsterquest.py 
 
 # Como o bot funciona?
 
-Ao iniciar o bot pressione enter, ele vai começar a buscar pela sequencia de botões de fight
+Ao iniciar o bot pressione enter dentro do terminal para que ele começe a busca
 
 ![1_finding_for_img](https://user-images.githubusercontent.com/58611244/151724009-8e69a80e-380c-498e-8df1-64ac406ac5db.png)
 
@@ -60,7 +70,7 @@ Eu sugiro que a tela do terminal fique dividida para melhor acompanhamento das i
 
 ![4_suggestion](https://user-images.githubusercontent.com/58611244/151724015-51f1b005-d576-4b8f-9f3f-3b7639b41ee9.png)
 
-Ele priorizará o click sempre no primeiro monstro, que até então é sempre o de maior porcentagem de vitória
+Quando o bot é iniciado ou quando a stamina de algum monstro acaba ele faz a busca pelos 3 botões de FIGHT e clicka no primeiro do primeiro monstro que até então é o que sempre tem a maior porcentagem de vitória
 
 ![2_found_buttons](https://user-images.githubusercontent.com/58611244/151724012-6c80ea25-d003-4fe3-8f38-447f59eeea3d.png)
 
@@ -68,50 +78,8 @@ Ná próxima tela ele verifica as opções de ataque e prioriza sempre o botão 
 
 ![3_found_second_buttons](https://user-images.githubusercontent.com/58611244/151724014-b67f1056-1441-4812-bd6e-047105ae7889.png)
 
+Ele faz esse loop até o termino da estamina do monstro selecionado
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#tutor1
-![1](https://user-images.githubusercontent.com/58611244/151720713-4318d443-9aea-4b6a-9365-678ade34763d.png) 
-
-
-
-#tutor2
-![2](https://user-images.githubusercontent.com/58611244/151720715-bfc52e20-684b-402c-b81c-30ecfda6f124.png)
