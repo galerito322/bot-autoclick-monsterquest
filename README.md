@@ -4,7 +4,7 @@
 
 - Precisa instalar o python e algumas bibliotecas 
 - Ideal pra quem tem vários monstros e não quer dar 20x12x3 clicks (obs: caso pra quem tem 20 monstros) quando eles estão com a stamina full.
-- Um monstro deve ser selecionado manualmente no início e a cada termino de loop, é configurado dessa forma para que ele n ataque com monstros indesejáveis (obs: deixe os botões de FIGHT disponíveis na tela de forma manual no primeiro loop e no termino da stamina de cada monstro) 
+- Um monstro deve ser selecionado manualmente ao iniciar o bot e ao termino de sua stamina, é configurado dessa forma para que ele não ataque com monstros indesejáveis (obs: deixe os botões de FIGHT disponíveis na tela de forma manual no primeiro loop e no termino da stamina de cada monstro) 
 - Caso algum passo não esteja funcionando corretamente basta realizar a substituição da imagem na pasta do bot por outra equivalente (obs: matenha o mesmo nome da imagem substituída). Você pode fazer isso usando as teclas (Windows+shift+s) ou qualquer outra coisa que possibilite o recorte da imagem, ex: paint ou lightshot.
 - Sim, copiei parte do tutorial de instalação do python do bot do bombercrypto
 
