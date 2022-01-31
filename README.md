@@ -2,9 +2,10 @@
 
 # Bot para fazer o modo ADVENTURE de forma semi-automatizada (resumo)
 
-- Ideal pra quem tem vários monstros e não quer dar 20x12x3 clicks (caso pra quem tem 20 monstros) quando eles estão com a stamina full.
-- Um monstro deve ser selecionado manualmente no início e a cada termino de loop (é configurado dessa forma para que ele n ataque com monstros indesejáveis).
-- Caso algum passo não esteja funcionando corretamente basta realizar a substituição da imagem na pasta do bot por outra equivalente (matenha o mesmo nome da img substituida). Você pode fazer isso usando (Windows+shift+s) ou qualquer outra coisa que possibilite o recorte da imagem como paint ou lightshot.
+- Precisa instalar o python e algumas bibliotecas 
+- Ideal pra quem tem vários monstros e não quer dar 20x12x3 clicks (obs: caso pra quem tem 20 monstros) quando eles estão com a stamina full.
+- Um monstro deve ser selecionado manualmente no início e a cada termino de loop, é configurado dessa forma para que ele n ataque com monstros indesejáveis (obs: deixe os botões de FIGHT disponíveis na tela de forma manual no primeiro loop e no termino da stamina de cada monstro) 
+- Caso algum passo não esteja funcionando corretamente basta realizar a substituição da imagem na pasta do bot por outra equivalente (obs: matenha o mesmo nome da imagem substituída). Você pode fazer isso usando as teclas (Windows+shift+s) ou qualquer outra coisa que possibilite o recorte da imagem, ex: paint ou lightshot.
 - Sim, copiei parte do tutorial de instalação do python do bot do bombercrypto
 
 # Video demonstrativo de uso
@@ -70,7 +71,7 @@ Eu sugiro que a tela do terminal fique dividida para melhor acompanhamento das i
 
 ![4_suggestion](https://user-images.githubusercontent.com/58611244/151724015-51f1b005-d576-4b8f-9f3f-3b7639b41ee9.png)
 
-Quando o bot é iniciado ou quando a stamina de algum monstro acaba ele faz a busca pelos 3 botões de FIGHT e clicka no primeiro do primeiro monstro que até então é o que sempre tem a maior porcentagem de vitória
+Quando o bot é iniciado ou quando a stamina de algum monstro acaba ele faz a busca pelos 3 botões de FIGHT e clicka no primeiro monstro que até então é o que sempre tem a maior porcentagem de vitória (obs: deixe os botões de FIGHT disponíveis na tela de forma manual no primeiro loop e no final do loop de cada monstro) 
 
 ![2_found_buttons](https://user-images.githubusercontent.com/58611244/151724012-6c80ea25-d003-4fe3-8f38-447f59eeea3d.png)
 
@@ -78,7 +79,7 @@ Ná próxima tela ele verifica as opções de ataque e prioriza sempre o botão 
 
 ![3_found_second_buttons](https://user-images.githubusercontent.com/58611244/151724014-b67f1056-1441-4812-bd6e-047105ae7889.png)
 
-Ele faz esse loop até o termino da estamina do monstro selecionado
+
 
 
 
