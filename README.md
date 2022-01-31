@@ -34,8 +34,48 @@ python3 index.py
 
 ![5_run_py](https://user-images.githubusercontent.com/58611244/151722176-c6cc07ef-4c24-4052-ba53-93093de033ce.png)
 
-
 # Como usar?
+
+Abra o terminal, se ainda não tiver navegado para a pasta do bot dê novamente o comando
+
+```
+"cd" + caminho que você copiou
+```
+
+Para iniciar use o comando 
+
+```
+python3 monsterquest.py
+```
+
+Ou simplismente vá na pasta manualmente e abra o arquivo monsterquest.py 
+
+# Como o bot funciona?
+
+Ao iniciar o bot pressione enter, ele vai começar a buscar pela sequencia de botões de fight
+
+![1_finding_for_img](https://user-images.githubusercontent.com/58611244/151724009-8e69a80e-380c-498e-8df1-64ac406ac5db.png)
+
+Eu sugiro que a tela do terminal fique dividida para melhor acompanhamento das informações. Você pode fazer isso com as teclas (Windows + setas de direcionamento)
+
+![4_suggestion](https://user-images.githubusercontent.com/58611244/151724015-51f1b005-d576-4b8f-9f3f-3b7639b41ee9.png)
+
+Ele priorizará o click sempre no primeiro monstro, que até então é sempre o de maior porcentagem de vitória
+
+![2_found_buttons](https://user-images.githubusercontent.com/58611244/151724012-6c80ea25-d003-4fe3-8f38-447f59eeea3d.png)
+
+Ná próxima tela ele verifica as opções de ataque e prioriza sempre o botão SKILL ATTACK caso o mesmo esteja disponível
+
+![3_found_second_buttons](https://user-images.githubusercontent.com/58611244/151724014-b67f1056-1441-4812-bd6e-047105ae7889.png)
+
+
+
+
+
+
+
+
+
 
 
 
