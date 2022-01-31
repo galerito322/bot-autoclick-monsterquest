@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ### Pronto! Agora é só iniciar o bot com o comando
 
 ```
-python3 index.py
+python3 monsterquest.py
 ```
 
 ![5_run_py](https://user-images.githubusercontent.com/58611244/151722176-c6cc07ef-4c24-4052-ba53-93093de033ce.png)
