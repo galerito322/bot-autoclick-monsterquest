@@ -71,7 +71,7 @@ Eu sugiro que a tela do terminal fique dividida para melhor acompanhamento das i
 
 ![4_suggestion](https://user-images.githubusercontent.com/58611244/151724015-51f1b005-d576-4b8f-9f3f-3b7639b41ee9.png)
 
-Quando o bot é iniciado ou quando a stamina de algum monstro acaba ele faz a busca pelos 3 botões de FIGHT e clicka no primeiro monstro que até então é o que sempre tem a maior porcentagem de vitória (obs: deixe os botões de FIGHT disponíveis na tela de forma manual no primeiro loop e no final do loop de cada monstro) 
+Quando o bot é iniciado ou quando a stamina de algum monstro acaba ele faz a busca pelos 3 botões de FIGHT e clicka no primeiro monstro, que até então é o que sempre tem a maior porcentagem de vitória (obs: deixe os botões de FIGHT disponíveis na tela de forma manual no primeiro loop e no final do loop de cada monstro) 
 
 ![2_found_buttons](https://user-images.githubusercontent.com/58611244/151724012-6c80ea25-d003-4fe3-8f38-447f59eeea3d.png)
 
