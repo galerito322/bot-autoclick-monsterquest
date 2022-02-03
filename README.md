@@ -79,7 +79,7 @@ Ná próxima tela ele verifica as opções de ataque e prioriza sempre o botão 
 
 ![3_found_second_buttons](https://user-images.githubusercontent.com/58611244/151724014-b67f1056-1441-4812-bd6e-047105ae7889.png)
 
-O loop se repete até que a estamina do monstro acabe (Novamente: ao acabar estamina de um monstro selecione outro de forma manual)
+A partir daí loop se repete até que a estamina do monstro acabe (Novamente: ao acabar estamina de um monstro selecione outro de forma manual)
 
 
 
