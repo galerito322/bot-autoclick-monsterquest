@@ -1,6 +1,6 @@
 # bot-autoclick-monsterquest
 
-# Bot para fazer o modo ADVENTURE do jogo Monster Quest de forma semi-automatizada (resumo)
+# Bot para fazer o modo ADVENTURE do jogo [Monster Quest](https://monsterquest.io/) de forma semi-automatizada (resumo)
 
 - É preciso instalar o python e algumas bibliotecas 
 - Ideal pra quem tem vários monstros e não quer dar 20x12x3 clicks (obs: caso pra quem tem 20 monstros) quando eles estão com a stamina full.
